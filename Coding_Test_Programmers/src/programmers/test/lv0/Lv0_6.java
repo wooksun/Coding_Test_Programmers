@@ -1,6 +1,6 @@
 package programmers.test.lv0;
 
-// 덧셈 출력식
+// 덧셈 출력식 
 
 import java.util.Scanner;
 
