@@ -15,7 +15,7 @@ public class Lv0_7 {
 		String a = sc.next();
 		String b = sc.next();
 		
-		System.out.println(a+""+b+"");
+		System.out.println(a+""+b+"");  
 		
 	}
 
