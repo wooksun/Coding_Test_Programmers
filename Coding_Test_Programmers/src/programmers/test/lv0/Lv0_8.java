@@ -26,6 +26,6 @@ public class Lv0_8 {
 		for(int i=0; i<b; i++) {
 			System.out.println(a.charAt(i));
 		} // for()
-	} // main()
+	} // main()  
 
 }
