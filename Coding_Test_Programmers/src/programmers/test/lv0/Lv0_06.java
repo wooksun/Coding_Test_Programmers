@@ -9,7 +9,7 @@ import java.util.Scanner;
 //	제한사항: 1 ≤ a, b ≤ 100
 //	입출력 예) 입력: 4 5, 출력: 4 + 5 = 9
 
-public class Lv0_6 {
+public class Lv0_06 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

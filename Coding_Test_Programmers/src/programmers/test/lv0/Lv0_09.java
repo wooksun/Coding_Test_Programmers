@@ -11,7 +11,7 @@ import java.util.Scanner;
 //	입력: 1
 //	출력: 1 is odd
 
-public class Lv0_9 {
+public class Lv0_09 {
 
 	public static void main(String[] args) {
 		

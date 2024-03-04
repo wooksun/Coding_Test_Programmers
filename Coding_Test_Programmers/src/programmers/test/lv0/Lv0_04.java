@@ -7,7 +7,7 @@ import java.util.Scanner;
 //	str은 알파벳으로 이루어진 문자열입니다.
 //	입출력 예) aBcDeFg => AbCdEfG
 
-public class Lv0_4 {
+public class Lv0_04 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

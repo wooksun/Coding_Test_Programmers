@@ -13,7 +13,7 @@ import java.util.Scanner;
 //		  d
 //		  e
 
-public class Lv0_8 {
+public class Lv0_08 {
 
 	public static void main(String[] args) {
 		
